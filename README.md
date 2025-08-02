@@ -17,7 +17,6 @@ This is a minimal Android application built for an assignment. The app demonstra
 
 To build and run this project, you will need:
 
-* Android Studio (Hedgehog or newer is recommended).
 * A physical Android device that supports ARCore. You can check the list of supported devices [here](https://developers.google.com/ar/devices).
 * "Google Play Services for AR" installed and updated on the device from the Play Store.
 
