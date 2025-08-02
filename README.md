@@ -28,3 +28,7 @@ To build and run this project, you will need:
 3.  Grant the app **camera permission** when prompted.
 4.  Point your phone's camera towards a flat, textured surface (like the floor). Move it around slowly until you see visual feedback indicating a plane has been detected.
 5.  **Tap on the detected plane** to place the 3D drill marker (a cube) in the scene.
+
+
+
+   > **Note on Installation:** When installing the provided APK, you may see a "Blocked by Play Protect" warning. This is expected because it's a debug build. Please tap **"More details"** and then **"Install anyway"** to proceed.
